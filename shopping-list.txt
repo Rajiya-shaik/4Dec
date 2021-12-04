@@ -1,0 +1,7 @@
+const myList = [
+  ["dairy milk",2],
+  ["five star",3],
+  ["dark fantacy",4],
+  ["orio",5],
+  ["snickers",6]
+];
